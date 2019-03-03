@@ -1,5 +1,8 @@
 # Ask me anything with Kent C. Dodds
 
+<img src="/ama-kent-cover.png" width="550">
+
+
 
 
 This AMA is a part of Ask me Anything series done by React India 2019.The plan is to do remote AMA's with industry experts.You can ask them anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
