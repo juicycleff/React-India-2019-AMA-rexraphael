@@ -1,5 +1,7 @@
 # Ask me anything with Kent C. Dodds
 
+<img src="/ASK ME ANYTHING.png" width="500">
+
 This AMA is a part of Ask me Anything series done by React India 2019.The plan is to do remote AMA's with industry experts.You can ask them anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
@@ -11,9 +13,9 @@ Kent C. Dodds is a world renowned speaker, teacher, and trainer and he's activel
 
 Ask questions to Kent, please <kbd>[create a new issue](https://github.com/React-IND/React-India-2019-AMA-Kentcdodds/issues/new)</kbd> on this project.
 
----
 
-<div align="center">Huge thanks to Kent and &nbsp;<a href="https://testingjavascript.com"><img src="https://testingjavascript.com/static/logoDark-d1013bdb0564fc97a0207b86df5d9d5e.svg" width="250"></a> for supporting this initiative and taking time out.&nbsp;
+
+Huge thanks to Kent and &nbsp;<a href="https://testingjavascript.com"><img src="https://testingjavascript.com/static/logoDark-d1013bdb0564fc97a0207b86df5d9d5e.svg" width="150"></a> for supporting this initiative and taking time out.&nbsp;
 
 ## React India 2019
 <a href="http://reactindia.io">React India 2019 </a>&nbsp;Is a not-for-profit 3-day event that is happening from September 26th - 28th 2019 in Goa,India.</div>
