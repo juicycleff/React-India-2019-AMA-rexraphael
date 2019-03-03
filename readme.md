@@ -33,7 +33,7 @@ Huge thanks to Kent and &nbsp;<a href="https://testingjavascript.com"><img src="
 
 ## Code of Conduct
 
-By participating in this project, you agree to abide by the [code of conduct](<a href="http://bit.ly/codeofconduct-reactindia">).
+By participating in this project, you agree to abide by the [code of conduct](http://bit.ly/codeofconduct-reactindia).
 
 
 ## Answered
