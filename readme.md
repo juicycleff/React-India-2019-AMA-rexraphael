@@ -16,9 +16,7 @@ Kent C. Dodds is a world renowned speaker, teacher, and trainer and he's activel
 
 Ask questions to Kent, please <kbd>[create a new issue](https://github.com/React-IND/React-India-2019-AMA-Kentcdodds/issues/new)</kbd> on this project.
 
-
-
-Huge thanks to Kent and &nbsp;<a href="https://testingjavascript.com"><img src="https://testingjavascript.com/static/logoDark-d1013bdb0564fc97a0207b86df5d9d5e.svg" width="150"></a> for supporting this initiative and taking time out.&nbsp;
+Huge thanks to Rex and &nbsp;<a href="https://reactnorway.com"><img src="https://www.reactindia.io/assets/images/partners/react_norway.svg" width="150"></a> for supporting this initiative and taking time out.&nbsp;
 
 ## React India 2019
 <a href="http://reactindia.io">React India 2019 </a>&nbsp;Is a not-for-profit 3-day event that is happening from September 26th - 28th 2019 in Goa,India.</div>
