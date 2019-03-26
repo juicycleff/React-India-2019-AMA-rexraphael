@@ -1,4 +1,4 @@
-# Ask me anything with Kent C. Dodds
+# Ask me anything with Rex I. Raphael
 
 <img src="/ama-kent-cover.png" width="550">
 
