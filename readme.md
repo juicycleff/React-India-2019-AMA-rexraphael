@@ -1,10 +1,5 @@
 # Ask me anything with Rex I. Raphael
 
-/* <img src="/ama-kent-cover.png" width="550"> */
-
-
-
-
 This AMA is a part of Ask me Anything series done by React India 2019.The plan is to do remote AMA's with industry experts.You can ask them anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
@@ -16,7 +11,7 @@ Rex I. Raphael is a senior fullstack developer with passion for open sourcing. H
 
 Ask questions to Rex, please <kbd>[create a new issue](https://github.com/React-IND/React-India-2019-AMA-rexraphael/issues/new)</kbd> on this project.
 
-Huge thanks to Rex and &nbsp;<a href="https://reactnorway.com"><img src="https://www.reactindia.io/assets/images/partners/react_norway.svg" width="150"></a> and <a href="https://reactnewyork.com"><img src=https://www.reactindia.io/assets/images/partners/react_new_york.svg" width="150"></a> for supporting this initiative and taking time out.&nbsp;
+Huge thanks to Rex, <a href="https://reactnorway.com"><img src="https://www.reactindia.io/assets/images/partners/react_norway.svg" width="150"></a> and &nbsp; <a href="https://reactnewyork.com"><img src=https://www.reactindia.io/assets/images/partners/react_new_york.svg" width="150"></a> for supporting this initiative and taking time out.&nbsp;
 
 ## React India 2019
 <a href="http://reactindia.io">React India 2019 </a>&nbsp;Is a not-for-profit 3-day event that is happening from September 26th - 28th 2019 in Goa,India.</div>
